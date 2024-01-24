@@ -13,7 +13,7 @@ const HomePage: React.FC = () => {
     <PageLayout
       header={
         <>
-          <Title>Plombery</Title>
+          <Title>Plombery cong</Title>
         </>
       }
     >
